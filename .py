@@ -1,5 +1,4 @@
-
-
+#built a simple python calculator
 print("Simple Calculator")
 print("Choose operation:")
 print("1. Add")
